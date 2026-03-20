@@ -1,6 +1,6 @@
-Sunny's Portfolio
+Ankit's Portfolio
 
-Welcome to my digital portfolio! I'm Sunny, a passionate Full Stack Developer based in India. This repository showcases my journey, projects, and the technologies I've mastered.
+Welcome to my digital portfolio! I'm Ankit, a passionate Full Stack Developer based in India. This repository showcases my journey, projects, and the technologies I've mastered.
 
 🔧 Technologies & Tools
 
@@ -39,7 +39,7 @@ vite.config.js
 
 Clone the repository:
 
-git clone https://github.com/Sunny5130/Portfolio.git
+git clone https://github.com/Ankitsani/Portfolio
 cd Portfolio
 
 
@@ -56,12 +56,12 @@ npm run dev
 
 🌐 Live Demo
 
-Experience the live version of my portfolio here: https://portfolio-sunnysaini.vercel.app/
+Experience the live version of my portfolio here: https://portfolio-khaki-tau-49.vercel.app
 
 📬 Contact
 
-GitHub: https://github.com/Sunny5130
+GitHub: https://github.com/Ankitsani
 
-LinkedIn: https://www.linkedin.com/in/sunny-sainis
+LinkedIn: https://www.linkedin.com/in/ankit-sainis/
 
 Feel free to reach out for collaborations or inquiries!
