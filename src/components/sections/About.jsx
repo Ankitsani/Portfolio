@@ -51,7 +51,7 @@ export const About = ({ isDarkMode }) => {
               style={{ animationDelay: "1s" }}
             ></div>
 
-            <div className="relative z-10">
+            {/* <div className="relative z-10">
               <p
                 className={`text-center leading-relaxed text-lg ${
                   isDarkMode ? "text-gray-300" : "text-gray-700"
@@ -62,8 +62,39 @@ export const About = ({ isDarkMode }) => {
                 solutions that make a difference. I love turning complex
                 problems into simple, beautiful, and intuitive solutions.
               </p>
-            </div>
+            </div> */}
+
+             <div className="relative z-10">
+  <p
+    className={`text-center leading-relaxed text-lg ${
+      isDarkMode ? "text-gray-300" : "text-gray-700"
+    }`}
+  >
+    I&apos;m a passionate full-stack developer with expertise in
+    building scalable web applications and creating innovative
+    solutions that make a difference. I love turning complex
+    problems into simple, beautiful, and intuitive solutions.
+  </p>
+
+  {/* ✅ Download Resume Button */}
+  <div className="text-center mt-6">
+    <a href="/Ankitcvv (1).pdf" download="Ankit_Saini_Resume.pdf">
+      <button
+        className={`px-6 py-2 rounded-lg font-semibold transition ${
+          isDarkMode
+            ? "bg-blue-500 text-white hover:bg-blue-600"
+            : "bg-blue-600 text-white hover:bg-blue-700"
+        }`}
+      >
+        Download Resume
+      </button>
+    </a>
+  </div>
+</div>
+ 
           </div>
+
+          
 
           {/* Skills grid */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
