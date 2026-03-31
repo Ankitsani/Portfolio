@@ -39,7 +39,7 @@ function Footer({ isDarkMode }) {
             <span className="text-sm hidden md:block">Connect with me:</span>
             <div className="flex gap-3">
               <a 
-                href="https://github.com/Ankitsan" 
+                href="https://github.com/Ankitsani" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className={`p-3 rounded-xl border transition-all duration-300 hover:-translate-y-1 hover:shadow-lg group ${
